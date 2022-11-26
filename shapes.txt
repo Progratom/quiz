@@ -1,0 +1,196 @@
+Afghanistan:Afghanistan.png
+Albania:Albania.png
+Algeria:Algeria.png
+Andorra:Andorra.png
+Angola:Angola.png
+Antigua and Bardua:Antigua and Bardua.png
+Argentina:Argentina.png
+Armenia:Armenia.png
+Australia:Australia.png
+Austria:Austria.png
+Azerbaijan:Azerbaijan.png
+Bahamas:Bahamas.png
+Bahrain:Bahrain.png
+Bangladesh:Bangladesh.png
+Barbados:Barbados.png
+Belarus:Belarus.png
+Belgium:Belgium.png
+Belize:Belize.png
+Benin:Benin.png
+Bhutan:Bhutan.png
+Bolivia:Bolivia.png
+Bosnia and Herzegovina:Bosnia and Herzegovina.png
+Botswana:Botswana.png
+Brazil:Brazil.png
+Brunei:Brunei.png
+Bulgaria:Bulgaria.png
+Burkina Faso:Burkina Faso.png
+Burundi:Burundi.png
+Cambodia:Cambodia.png
+Cameroon:Cameroon.png
+Canada:Canada.png
+Cape Verde:Cape Verde.png
+Central Africa Republic:Central Africa Republic.png
+Chad:Chad.png
+Chile:Chile.png
+China:China.png
+Colombia:Colombia.png
+Comoros:Comoros.png
+Congo Brazzaville:Congo Brazzaville.png
+Congo Kinshasa:Congo Kinshasa.png
+Costa Rica:Costa Rica.png
+Croatia:Croatia.png
+Cuba:Cuba.png
+Cyprus:Cyprus.png
+Czechia:Czechia.png
+Denmark:Denmark.png
+Djibuti:Djibuti.png
+Dominica:Dominica.png
+Dominican Republic:Dominican Republic.png
+East Timor:East Timor.png
+Ecuador:Ecuador.png
+Egypt:Egypt.png
+El Salvador:El Salvador.png
+Equatorial Guinea:Equatorial Guinea.png
+Eritrea:Eritrea.png
+Estonia:Estonia.png
+Eswatini:Eswatini.png
+Ethiopia:Ethiopia.png
+F. S. Micronesia:F. S. Micronesia.png
+Fiji:Fiji.png
+Finland:Finland.png
+France:France.png
+Gabon:Gabon.png
+Gambia:Gambia.png
+Georgia:Georgia.png
+Germany:Germany.png
+Ghana:Ghana.png
+Greece:Greece.png
+Grenada:Grenada.png
+Guatemala:Guatemala.png
+Guinea-Bissau:Guinea-Bissau.png
+Guinea:Guinea.png
+Guyana:Guyana.png
+Haiti:Haiti.png
+Honduras:Honduras.png
+Hungary:Hungary.png
+Iceland:Iceland.png
+India:India.png
+Indonesia:Indonesia.png
+Iran:Iran.png
+Iraq:Iraq.png
+Ireland:Ireland.png
+Israel:Israel.png
+Italy:Italy.png
+Ivory Coast:Ivory Coast.png
+Jamaica:Jamaica.png
+Japan:Japan.png
+Jordan:Jordan.png
+Kazahstan:Kazahstan.png
+Kenya:Kenya.png
+Kiribati:Kiribati.png
+Kosovo:Kosovo.png
+Kuwait:Kuwait.png
+Kyrgyzstan:Kyrgyzstan.png
+Laos:Laos.png
+Latvia:Latvia.png
+Lebanon:Lebanon.png
+Lesotho:Lesotho.png
+Liberia:Liberia.png
+Libya:Libya.png
+Liechtenstein:Liechtenstein.png
+Lithuania:Lithuania.png
+Luxenbourg:Luxenbourg.png
+Madagascar:Madagascar.png
+Malawi:Malawi.png
+Malaysia:Malaysia.png
+Maledives:Maledives.png
+Mali:Mali.png
+Malta:Malta.png
+Marshall Islands:Marshall Islands.png
+Mauritania:Mauritania.png
+Mauritius:Mauritius.png
+Mexico:Mexico.png
+Mnogolia:Mnogolia.png
+Moldova:Moldova.png
+Monaco:Monaco.png
+Montenegro:Montenegro.png
+Morocco:Morocco.png
+Mozambique:Mozambique.png
+Myanmar:Myanmar.png
+Namibia:Namibia.png
+Nauru:Nauru.png
+Nepal:Nepal.png
+Netherlands:Netherlands.png
+New Zealand:New Zealand.png
+Nicaragua:Nicaragua.png
+Niger:Niger.png
+Nigeria:Nigeria.png
+North Korea:North Korea.png
+North Macedonia:North Macedonia.png
+Norway:Norway.png
+Oman:Oman.png
+Pakistan:Pakistan.png
+Palau:Palau.png
+Panama:Panama.png
+Papia New Guinea:Papia New Guinea.png
+Paraguay:Paraguay.png
+Peru:Peru.png
+Philipines:Philipines.png
+Poland:Poland.png
+Portugal:Portugal.png
+Qatar:Qatar.png
+Romania:Romania.png
+Russia:Russia.png
+Rwanda:Rwanda.png
+Saint Kitts and Nevis:Saint Kitts and Nevis.png
+Saint Lucia:Saint Lucia.png
+Samoa:Samoa.png
+San Marino:San Marino.png
+Sao Tome and Principe:Sao Tome and Principe.png
+Saudi Arabia:Saudi Arabia.png
+Senegal:Senegal.png
+Serbia:Serbia.png
+Seychelles:Seychelles.png
+Sierra Leone:Sierra Leone.png
+Singapore:Singapore.png
+Slovakia:Slovakia.png
+Slovenia:Slovenia.png
+Solomon Islands:Solomon Islands.png
+Somalia:Somalia.png
+South Africa:South Africa.png
+South Korea:South Korea.png
+South Sudan:South Sudan.png
+Spain:Spain.png
+Sri Lanka:Sri Lanka.png
+St. Vincent and Grenadines:St. Vincent and Grenadines.png
+Sudan:Sudan.png
+Suriname:Suriname.png
+Sweden:Sweden.png
+Switzerland:Switzerland.png
+Syria:Syria.png
+Taiwan:Taiwan.png
+Tajikistan:Tajikistan.png
+Tanzania:Tanzania.png
+Thailand:Thailand.png
+Togo:Togo.png
+Tonga:Tonga.png
+Trinidad and Tobago:Trinidad and Tobago.png
+Tunisa:Tunisa.png
+Turkey:Turkey.png
+Turkmenistan:Turkmenistan.png
+Tuvalu:Tuvalu.png
+Uganda:Uganda.png
+Ukraine:Ukraine.png
+United Arab Emirates:United Arab Emirates.png
+United Kingdom:United Kingdom.png
+Uruguay:Uruguay.png
+USA:USA.png
+Uzbekistan:Uzbekistan.png
+Vanuatu:Vanuatu.png
+Vatican City:Vatican City.png
+Venezuela:Venezuela.png
+Vietnam:Vietnam.png
+Yemen:Yemen.png
+Zambia:Zambia.png
+Zimbabwe:Zimbabwe.png

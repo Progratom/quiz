@@ -1,0 +1,44 @@
+Swiss:320px-Flag_of_Switzerland_svg.png
+Denmark:370px-Flag_of_Denmark_svg.png
+Belgium:450px-Flag_of_Belgium_(civil)_svg.png
+Slovakia:450px-Flag_of_Slovakia_svg.png
+Portugal:600px-Flag_of_Portugal_svg.png
+Romania:600px-Flag_of_Romania_svg.png
+San Marino:600px-Flag_of_San_Marino_svg.png
+Vatican:600px-Flag_of_the_Vatican_City_svg.png
+Montenegro:640px-Flag_of_Montenegro_svg.png
+Albania:700px-Flag_of_Albania_svg.png
+Monaco:750px-Flag_of_Monaco_svg.png
+Spain:750px-Flag_of_Spain_svg.png
+Andorra:800px-Flag_of_Andorra_svg.png
+Austria:800px-Flag_of_Austria_svg.png
+Belarus:800px-Flag_of_Belarus_svg.png
+Bosnia and Herzegovina:800px-Flag_of_Bosnia_and_Herzegovina_svg.png
+Bulgaria:800px-Flag_of_Bulgaria_svg.png
+Croatia:800px-Flag_of_Croatia_svg.png
+Estonia:800px-Flag_of_Estonia_svg.png
+Finland:800px-Flag_of_Finland_svg.png
+France:800px-Flag_of_France_svg.png
+Greece:800px-Flag_of_Greece_svg.png
+Hungary:800px-Flag_of_Hungary_svg.png
+Iceland:800px-Flag_of_Iceland_svg.png
+Ireland:800px-Flag_of_Ireland_svg.png
+Italy:800px-Flag_of_Italy_svg.png
+Latvia:800px-Flag_of_Latvia_svg.png
+Lichtenstein:800px-Flag_of_Liechtenstein_svg.png
+Lithuania:800px-Flag_of_Lithuania_svg.png
+Luxenburg:800px-Flag_of_Luxembourg_svg.png
+Macedonia:800px-Flag_of_Macedonia_svg.png
+Malta:800px-Flag_of_Malta_svg.png
+Moldova:800px-Flag_of_Moldova_svg.png
+Norway:800px-Flag_of_Norway_svg.png
+Poland:800px-Flag_of_Poland_svg.png
+Russia:800px-Flag_of_Russia_svg.png
+Serbia:800px-Flag_of_Serbia_svg.png
+Slovenia:800px-Flag_of_Slovenia_svg.png
+Sweden:800px-Flag_of_Sweden_svg.png
+Czechia:800px-Flag_of_the_Czech_Republic_svg.png
+Netherlands:800px-Flag_of_the_Netherlands_svg.png
+Ukraine:800px-Flag_of_Ukraine_svg.png
+Great Britania:anglie.png
+Germany:nemecko.png
